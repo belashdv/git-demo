@@ -1,1 +1,1 @@
-# git-demo
+# Demo project for <EPAM> Automation Testing learning course
