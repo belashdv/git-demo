@@ -1,1 +1,1 @@
-# Demo project for <EPAM> Automation Testing learning course
+# Demo project for EPAM Automation Testing learning course
